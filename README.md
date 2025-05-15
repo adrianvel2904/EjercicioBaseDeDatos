@@ -19,6 +19,6 @@ Desde MySQL WorkBench importar la base de datos mysqlsampledatabase.sql
 5. Subir todo al repositorio y mostrar la imagen del diagrama en este README.md
 
 ---
-#Diagrama de la base de datos:
+# Diagrama de la base de datos:
 
 ![Diagrama de la base de datos classicmodels](classicmodels.png)
